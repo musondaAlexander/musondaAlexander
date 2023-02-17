@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexander Musonda</h1>
-<h3 align="center">A passionate software developer from Zambia</h3>
+<h3 align="center">A passionate software Engineer from Zambia</h3>
 
 - 🔭 I’m currently working on [Django E-commerce](https://github.com/musondaAlexander/E-commerce)
 
