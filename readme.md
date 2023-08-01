@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexander Musonda</h1>
-<h3 align="center">A passionate software Engineer from Zambia</h3>
+<h3 align="center">A passionate software Engineer from Zambia
 
 - 👨‍💻 All of my projects are available at [musondaalexander.me](musondaalexander.me)
 
