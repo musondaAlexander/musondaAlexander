@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Alexander Musonda</h1>
+<h1 align="center">**Welcome to My GitHub Profile!**</h1>
+<h6 align="center">Hello there! 👋 I'm Alexander Musonda, and this is my little corner of the GitHub universe. I'm passionate about Software Engineering, and you'll find a mix of projects and repositories here that reflect my journey and exploration in the world of coding and beyond.</h6>
+
 <h3 align="center">A passionate software Engineer from Zambia
   
 💬 Ask me about **Software Engineering management, Software Design, python , Data analysis,**
@@ -7,7 +9,7 @@
 👨‍💻 All of my projects are available at [musondaalexander.me](musondaalexander.me)
 
 <p align="left">
-  I am currently Learning Flutter and Dart for mobile Developement and data Analytics with Google.
+I am currently Learning Flutter and Dart for mobile Developement and data Analytics with Google.
   Open  to Joing an open source Project.
 </p>
 
