@@ -1,6 +1,5 @@
-<h1 align="center">Welcome to My GitHub Profile!</h1>
-<h3 align="center">Hello there! 👋 I'm Alexander Musonda, and this is my little corner of the GitHub universe. I'm passionate about Software Engineering, and you'll find a mix of projects and repositories here that reflect my journey and exploration in the world of coding and beyond.</h6>
 
+![Header](./[github-header-image.png])
 <h3 align="center">A passionate software Engineer from Zambia
   
 💬 Ask me about **Software Engineering management, Software Design, python , Data analysis,**
