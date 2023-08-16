@@ -6,6 +6,7 @@ I'm a Software engineer with a keen interest in:
 - Full Stack web Development
 - Android development with Flutter
 - Data analysis with Python
+<h1 align=left>Hobies</h1>
 When I'm not coding, you'll probably find me:
 - Reading
 - Playing with  microcontrollers and circuits 
