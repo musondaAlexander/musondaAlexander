@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alexander Musonda</h1>
 <h3 align="center">A passionate software Engineer from Zambia
 
-- 👨‍💻 All of my projects are available at [musondaalexander.me](musondaalexander.me)
+👨‍💻 All of my projects are available at [musondaalexander.me](musondaalexander.me)
 
-- 💬 Ask me about **python , Data analysis,**
+💬 Ask me about ** Software Engineering management, Software Design, python , Data analysis,**
 
-- 📫 How to reach me **musondaalexander97@gmail.com**
+📫 How to reach me **musondaalexander97@gmail.com**
 
 <h3 align="left">Connect with me:
 <p align="left">
