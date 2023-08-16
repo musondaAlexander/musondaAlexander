@@ -1,11 +1,11 @@
 
 ![Header](./github-header-image.png)
-<h1 align=left>About me/h1>
+<h1 align=left>About me</h1>
 
-I'm a Software EngiEngineer with a keen interest in:
+I'm a Software engineer with a keen interest in:
 - Full Stack web Development
-- Android developemnt with Flutter
-- Data analysis with python  
+- Android development with Flutter
+- Data analysis with Python
 When I'm not coding, you'll probably find me:
 - Reading
 - Playing with  microcontrollers and circuits 
