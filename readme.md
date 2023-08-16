@@ -1,15 +1,12 @@
 
-![Header](./[github-header-image.png])
-<h3 align="center">A passionate software Engineer from Zambia
-  
-💬 Ask me about **Software Engineering management, Software Design, python , Data analysis,**
-
+![Header](./github-header-image.png)
+<h1 align="left"> About me</h1>h1>  
 📫 How to reach me **musondaalexander97@gmail.com**
 👨‍💻 All of my projects are available at [musondaalexander.me](musondaalexander.me)
 
 <p align="left">
-I am currently Learning Flutter and Dart for mobile Developement and data Analytics with Google.
-  Open  to Joing an open source Project.
+I am currently Learning Flutter and Dart for mobile development and data Analytics with Google.
+open to joining an open source Project.
 </p>
 
 Languages and Tools:
