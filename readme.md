@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Alexander Musonda</h1>
-<h3 align="center">A passionate software Engineer from Zambia</h3>  
+<h3 align="center">A passionate software Engineer from Zambia
   
 💬 Ask me about **Software Engineering management, Software Design, python , Data analysis,**
 
 📫 How to reach me **musondaalexander97@gmail.com**
+👨‍💻 All of my projects are available at [musondaalexander.me](musondaalexander.me)
 
 <p align="left">
-  👨‍💻 All of my projects are available at [musondaalexander.me](musondaalexander.me)
-  I am currently Learning Flutter for and dart for mobile Developement and data Analytics with Google.
+  I am currently Learning Flutter and Dart for mobile Developement and data Analytics with Google.
+  Open  to Joing an open source Project.
 </p>
 
 Languages and Tools:
