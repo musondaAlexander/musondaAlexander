@@ -3,11 +3,10 @@
 
 👨‍💻 All of my projects are available at [musondaalexander.me](musondaalexander.me)
 
-💬 Ask me about ** Software Engineering management, Software Design, python , Data analysis,**
+💬 Ask me about **Software Engineering management, Software Design, python , Data analysis,**
 
 📫 How to reach me **musondaalexander97@gmail.com**
 
-<h3 align="left">Connect with me:
 <p align="left">
 </p>
 
