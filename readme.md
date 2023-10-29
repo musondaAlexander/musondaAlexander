@@ -12,7 +12,6 @@ I'm a Software engineer with a keen interest in:
 When I'm not coding, you'll probably find me:
 - Reading
 - Playing with  microcontrollers and circuits 
-- playing football 
 - I love collaborating, learning, and sharing knowledge with the amazing GitHub community.
 
 📫 How to reach me **musondaalexander97@gmail.com**
